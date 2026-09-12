@@ -1,0 +1,21 @@
+### TEST GET/ WEBSITE
+
+GET http://localhost:1111
+
+### TEST GET /dashbaord
+GET http://localhost:1111/dashboard
+
+### DATA ENDPOINT
+GET http://localhost:1111/api/data
+
+
+### DATE ENDPOINT FOR ADDING USER
+POST http://localhost:1111/api/data
+Content-Type: application/json
+
+{
+    "name":"shayam"
+}
+
+### DELETE ENDPOINT
+DELETE http://localhost:1111/api/data
