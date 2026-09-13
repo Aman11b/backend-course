@@ -116,7 +116,7 @@ If you want to boot it up without it commandeering your terminal (you'll have to
 
 9. **Access the App**:
 
-Open `http://localhost:5003` (or `localhost:3000` if changed) in your browser to see the frontend. You can register, log in, and manage your todo list from there.
+Open `http://localhost:5000` (or `localhost:3000` if changed) in your browser to see the frontend. You can register, log in, and manage your todo list from there.
 
 ## Emulating HTTP Requests (REST Client)
 
